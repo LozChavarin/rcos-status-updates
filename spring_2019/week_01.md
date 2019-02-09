@@ -1,24 +1,13 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I reevaluated my efforts last semester to create a prototype. One issue with the previous conveyor belt was the fragility of the components used and the high tolerance for error during construction. I acquired new motors and other components like a rubber belt. I measured the new components and sketched out a new schematic to use for the next conveyor belt.
 
 ## This Week's Plan
 
 > In this section, you can write about what you have planned for next week.
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> This week I want to grab some wood and build a new base for the conveyor belt from the schematic I made last week. The goal next week is to construct the base for the conveyor belt and test out the new motors.    
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> Getting access to the right machinery for cutting the wooden base might be an issue shouldn't be a problem.
